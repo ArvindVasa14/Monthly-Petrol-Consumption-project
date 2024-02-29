@@ -1,0 +1,17 @@
+format1: json
+offset1: 0
+limit1: 300
+
+format2: xml
+offset2: 300
+limit2: 300
+
+format2: csv
+offset2: 600
+limit2: 400
+
+api_key: 579b464db66ec23bdd0000012648d903ceb34d6b41b311ab7dae489c
+url: https://api.data.gov.in/resource/7b624b4a-1456-4945-80d0-dfb5e40ddcff
+
+
+# https://api.data.gov.in/resource/7b624b4a-1456-4945-80d0-dfb5e40ddcff?api-key=579b464db66ec23bdd000001cdd3946e44ce4aad7209ff7b23ac571b&format=
