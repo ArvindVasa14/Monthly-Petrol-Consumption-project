@@ -10,7 +10,7 @@ format2: csv
 offset2: 600
 limit2: 400
 
-api_key: 579b464db66ec23bdd0000012648d903ceb34d6b41b311ab7dae489c
+api_key: 
 url: https://api.data.gov.in/resource/7b624b4a-1456-4945-80d0-dfb5e40ddcff
 
 
