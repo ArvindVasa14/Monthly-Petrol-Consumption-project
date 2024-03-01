@@ -1,5 +1,7 @@
 import pandas as pd
+from xml.etree import ElementTree as ET
 
-df= pd.read_csv(r'artifacts\xml_response.csv')
+tree = ET.parse('artifacts/xml_response.xml')
+root = tree.getroot()
 
-print(df.columns)
+print(root.text)
