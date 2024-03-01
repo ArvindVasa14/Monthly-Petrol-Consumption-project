@@ -2,15 +2,15 @@ format1: json
 offset1: 0
 limit1: 300
 
-format2: xml
+format2: csv
 offset2: 300
 limit2: 300
 
-format2: csv
-offset2: 600
+format3: xml
+offset3: 600
 limit2: 400
 
-api_key: 
+api_key: ########################################################
 url: https://api.data.gov.in/resource/7b624b4a-1456-4945-80d0-dfb5e40ddcff
 
 
